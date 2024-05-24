@@ -1,0 +1,17 @@
+String? fullname="";
+String? position="";
+String? aboutme="";
+String? email="";
+String? address="";
+String? ph="";
+String? website="";
+String? school="";
+String? faculty="";
+String? department="";
+String? level="";
+String? gpa="";
+String? company="";
+String? title="";
+String? job="";
+String? fromDatr="";
+String? endDate="";

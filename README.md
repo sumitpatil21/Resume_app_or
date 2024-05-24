@@ -1,16 +1,5 @@
-# resume_app
+<h2>Video Out Now</h2>
 
-A new Flutter project.
+https://github.com/sumitpatil21/Resume_app_or/assets/148967002/5b9bd1a0-7391-49e8-8474-d5d9b73cd6ee
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
